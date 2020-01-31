@@ -1,0 +1,16 @@
+sites/files/ hospital
+multaqa/ company limited
+/index.php?option=
+en
+multaqa
+?q=
+sites/default/files
+node/ edu.lv
+tti
+/q=node/1
+q node f=d
+"inurl"option=com" "in"
+intext.php?options=com_user
+intext.php?options=com_media
+intext.php?options=com_sport
+intext.php?options=com_hello

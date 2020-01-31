@@ -1,0 +1,16 @@
+admin
+panel
+yonetim
+yonetim/login.php
+admin/galeri.php
+upload.php
+upload/upload.php
+up.php
+upload/up.php
+admin/upload.php
+admin/login.php
+administrator
+yonetici
+administrator.php
+administration.php
+admin/gallery.php

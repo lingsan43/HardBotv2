@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>4r0n_tn was here !!</title>
+	<meta name="description" content="Why So Serious?">
+	<link href="https://www.imageupload.co.uk/images/2018/07/17/20180717_220707.jpg/images?q=tbn:ANd9GcRsgKbikCR-k50VPKqhbLxh_9fRaBWFBMfH3e9rCQngYYMjcD8y_A" rel="icon" type="image/x-icon"/>
+	<link href="https://fonts.googleapis.com/css?family=Amatic+SC:400,700" rel="stylesheet">
+	<embed src="http://www.sonofgawker.com/download/mp3/xxxtentacion-changes-lyric-video--eXRbLV1YZ1EzUUY1RGxwYw.html"  repeat=true autostart=true loop=TRUE width=0 height=0 align="CENTER"></embed></center>
+	<meta name="author" content="hehe">
+	<meta charset="utf-8">
+	<link href="https://fonts.googleapis.com/css?family=Jolly+Lodger" rel="stylesheet">
+	<style type="text/css">
+	@import url('https://fonts.googleapis.com/css?family=Jolly+Lodger');
+	body{
+		background-image: url();
+		background-color: white;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: 100% 100%;
+	}
+	.glitchtext {
+		justify-content: center;
+		align-items: center;
+		display: flex;
+	}
+	.text {
+		font-family: "Jolly Lodger";
+		font-size: 19.5px;
+		color: #000000;
+		text-shadow: 0 0 12.5px #0087FF;
+		margin: 4%;
+		margin-top: 2%;
+	}
+	.dud {
+		color: #757575;
+	}
+
+	h1 {
+		color: #000000;
+		font-family: "Jolly Lodger";
+		font-size: 60px;
+		font-weight: 400;
+		text-align: center;
+		margin: 0;
+		line-height: 0;
+		animation: glitch1 2.5s infinite;
+	}
+	h1:nth-child(2) {
+		color: #67f3da;
+		animation: glitch2 2.5s infinite;
+	}
+	h1:nth-child(3) {
+		color: #f16f6f;
+		animation: glitch3 2.5s infinite;
+	}
+	@keyframes glitch1 {
+		0% {
+			transform: none;
+			opacity: 1;
+		}
+		7% {
+			transform: skew(-0.5deg, -0.9deg);
+			opacity: 0.75;
+		}
+		10% {
+			transform: none;
+			opacity: 1;
+		}
+		27% {
+			transform: none;
+			opacity: 1;
+		}
+		30% {
+			transform: skew(0.8deg, -0.1deg);
+			opacity: 0.75;
+		}
+		35% {
+			transform: none;
+			opacity: 1;
+		}
+		52% {
+			transform: none;
+			opacity: 1;
+		}
+		55% {
+			transform: skew(-1deg, 0.2deg);
+			opacity: 0.75;
+		}
+		50% {
+			transform: none;
+			opacity: 1;
+		}
+		72% {
+			transform: none;
+			opacity: 1;
+		}
+		75% {
+			transform: skew(0.4deg, 1deg);
+			opacity: 0.75;
+		}
+		80% {
+			transform: none;
+			opacity: 1;
+		}
+		100% {
+			transform: none;
+			opacity: 1;
+		}
+	}
+
+	@keyframes glitch2 {
+		0% {
+			transform: none;
+			opacity: 0.25;
+		}
+		7% {
+			transform: translate(-2px, -3px);
+			opacity: 0.5;
+		}
+		10% {
+			transform: none;
+			opacity: 0.25;
+		}
+		27% {
+			transform: none;
+			opacity: 0.25;
+		}
+		30% {
+			transform: translate(-5px, -2px);
+			opacity: 0.5;
+		}
+		35% {
+			transform: none;
+			opacity: 0.25;
+		}
+		52% {
+			transform: none;
+			opacity: 0.25;
+		}
+		55% {
+			transform: translate(-5px, -1px);
+			opacity: 0.5;
+		}
+		50% {
+			transform: none;
+			opacity: 0.25;
+		}
+		72% {
+			transform: none;
+			opacity: 0.25;
+		}
+		75% {
+			transform: translate(-2px, -6px);
+			opacity: 0.5;
+		}
+		80% {
+			transform: none;
+			opacity: 0.25;
+		}
+		100% {
+			transform: none;
+			opacity: 0.25;
+		}
+	}
+
+	@keyframes glitch3 {
+		0% {
+			transform: none;
+			opacity: 0.25;
+		}
+		7% {
+			transform: translate(2px, 3px);
+			opacity: 0.5;
+		}
+		10% {
+			transform: none;
+			opacity: 0.25;
+		}
+		27% {
+			transform: none;
+			opacity: 0.25;
+		}
+		30% {
+			transform: translate(5px, 2px);
+			opacity: 0.5;
+		}
+		35% {
+			transform: none;
+			opacity: 0.25;
+		}
+		52% {
+			transform: none;
+			opacity: 0.25;
+		}
+		55% {
+			transform: translate(5px, 1px);
+			opacity: 0.5;
+		}
+		50% {
+			transform: none;
+			opacity: 0.25;
+		}
+		72% {
+			transform: none;
+			opacity: 0.25;
+		}
+		75% {
+			transform: translate(2px, 6px);
+			opacity: 0.5;
+		}
+		80% {
+			transform: none;
+			opacity: 0.25;
+		}
+		100% {
+			transform: none;
+			opacity: 0.25;
+		}
+	}
+</style>
+</head>
+<body>
+	<center><img src="https://www.imageupload.co.uk/images/2018/08/07/38049926_2240675706155701_6368221286216237056_n.png" height="500px"> 
+		<br><br><br>
+		<div id="glitchtext">
+			<h1>[ ! ]Fucked by 4r0n_tn [ ! ]</h1>
+			<h1>[ ! ]Fucked by 4r0n_tn [ ! ]</h1>
+			<h1>[ ! ]Fucked by 4r0n_tn [ ! ]</h1>
+		</div><br><br>
+		<font color="black" size="3" face="Jolly Lodger">[=]<font color="red">Sorry Sir, your site has been fucked , give me 0.05 BTC or i will be comeback to your site , im need 0.5 BTC now , if you have please contact me xD</font>[=]</font><br><br>
+		<font color="red" size="6" face="Jolly Lodger"><"/"><font color="black">4r0n_tn</font><"/"></font><br><br><br>
+		<font color="black" size="5" face="Jolly Lodger"><font color="red">I'am :<br>-- </font> 4r0n_tn <font color="red">-- </font></font><br><br>
+		<font color="black" size="5" face="Jolly Lodger"><font color="red">My Friends :</font><br><font color="red">--</font> I d'ont Have friends Hahahaha -_- <font color="red">--</font><br><br>
+		<center><img src="https://vignette.wikia.nocookie.net/reddeadredemption/images/8/82/Epic-fail-guy-dance.gif"><img src="http://lh6.googleusercontent.com/-AXuIH_cHGOQ/UUzEKLtQ0EI/AAAAAAAAAGI/jw2FhilfMo4/s298-no/TrollFaceDancing_large.gif"/><img src="https://vignette.wikia.nocookie.net/reddeadredemption/images/8/82/Epic-fail-guy-dance.gif"/></img></center><br><br><br>
+		<font color="black" size="3" face="Jolly Lodger"><font color="red">[</font> ! <font color="red">]</font>Do you need some coffee?<font color="red">[ </font>! <font color="red">]</font><br>Contact me: <font color="red">aron.tn@yandex.com</font></font>
+	</body>
+	</html>

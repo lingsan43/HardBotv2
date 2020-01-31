@@ -1,0 +1,2 @@
+index.php?id=48
+page.php?id=74
